@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "844292951653",
+    "project_id": "qrkiosk-6963d",
+    "storage_bucket": "qrkiosk-6963d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844292951653:android:5165a193860db423ecc08c",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844292951653-t7hbg8i9knd1ht2ofe7apuhc5gmjdaj2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHxDf2m6LPWzGOzat5QEs_QphQRIW8qPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844292951653-t7hbg8i9knd1ht2ofe7apuhc5gmjdaj2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
